@@ -50,7 +50,7 @@ const Navbar = () => {
 								Contact
 							</li>
 						</Link> */}
-						<Link href="https://drive.google.com/file/d/14T-GWKpuVKUTi5t3r1TtehNKfVaoT2sp/view?usp=sharing" target="blank">
+						<Link href="https://drive.google.com/drive/u/2/folders/1YSIDnykElEGq9MTTEVgsuGqViraNfEoG" target="blank">
 							<li className="ml-10 hover:text-[#00bcea] text-sm uppercase hover:border-b">
 								CV
 							</li>
